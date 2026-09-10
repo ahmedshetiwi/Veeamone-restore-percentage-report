@@ -1,5 +1,7 @@
 # VeeamONE Custom Report (Restore Status Percentage Report - Veeam Standalone/Managed RMAN Plugin- SAP HANA Standalone/Managed Plugin - All Backup Jobs Calender - All Backup Job Report - Email&Scheduling)
+<img width="440" height="562" alt="image" src="https://github.com/user-attachments/assets/d9453397-9352-44f2-ac02-58b4550500e4" />
 
+cd 
 Generate a **restore status percentage** report (success / warning / failed
 rate) from the **Veeam ONE** monitoring database. Produces a CSV plus a
 self-contained HTML report (donut chart, daily trend, and a filterable table of
